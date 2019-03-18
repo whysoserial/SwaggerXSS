@@ -1,0 +1,27 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "version": "hate speech",
+        "title": "brand damage",
+        "description": "[asd](javascript:alert(document.domain))xxxx<img src='https://www.checkmarx.com/wp-content/uploads/2017/09/twitter-3-Ways-to-Prevent-XSS.png' onload=alert(domain) />xxxx",
+        "default": "brand damage",
+        "termsOfService": "javascript:alert(document.domain)",
+        "contact": {
+            "name": "phishing link",
+            "url": "javascript:alert(document.domain)",
+            "email": "javascript:alert(document.domain)"
+        }
+    },
+    "basePath": "/",
+    "paths": {
+        "/": {
+            "get": {
+                "responses": {
+                    "200": {
+                        "description": "Successful response"
+                    }
+                }
+            }
+        }
+    }
+}
