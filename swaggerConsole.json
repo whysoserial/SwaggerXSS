@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: hate speech
   title: brand damage
-  description: '[asd](javascript:console.log(13333337))xxxx<img src=''https://www.checkmarx.com/wp-content/uploads/2017/09/twitter-3-Ways-to-Prevent-XSS.png'' onload=console.log(13333337) />xxxx'
+  description: '[asd](javascript:console.log(13333337))xxxx<img src=''http://repositorio.educacion.gov.ar:8080/manager/html'' onload=console.log(13333337) />xxxx'
   termsOfService: 'javascript:console.log(13333337)'
   contact:
     name: phishing link
