@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: hate speech
   title: brand damage
-  description: '[asd](javascript:console.log(13333337))xxxx<img src=''http://repositorio.educacion.gov.ar:8080/manager/html'' onload=console.log(13333337) />xxxx'
+  description: '[asd](javascript:console.log(13333337))xxxx<img src=''http://www.zerohedge.com/sites/default/files/images/user3303/imageroot/20150920_drevil1.jpg'' onload=console.log(13333337) />xxxx'
   termsOfService: 'javascript:console.log(13333337)'
   contact:
     name: phishing link
