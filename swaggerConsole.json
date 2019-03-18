@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: hate speech
   title: brand damage
-  description: '[asd](javascript:console.log(13333337))xxxx<img src=''http://images6.fanpop.com/image/photos/33200000/dr-evil-austin-powers-33220839-480-386.jpg'' onload=console.log(13333337) />xxxx'
+  description: '<img src="http://images6.fanpop.com/image/photos/33200000/dr-evil-austin-powers-33220839-480-386.jpg" onload=confirm(13333337) />xxxx'
   termsOfService: 'javascript:console.log(13333337)'
   contact:
     name: phishing link
